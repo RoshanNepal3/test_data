@@ -2,12 +2,6 @@
     "ring": [
         {
             "_id": "E2:B1:20:01:88:16",
-            "ringInfo": {
-                "uuid": "E2:B1:20:01:88:16",
-                "deviceName": "2301B 18816",
-                "isSuccess": true,
-                "state": "ready"
-            },
             "is_sync": false,
             "lastSyncTimeStamp": "2026.03.13 09:59:01",
             "timonMigrationCompleted": false,
